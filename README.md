@@ -3,7 +3,8 @@ Dual Clock Asynchronous FIFO Module
 Overview
 This project provides a Verilog implementation of a Dual Clock Asynchronous FIFO (First In, First Out) buffer. The FIFO module is designed to handle data transfers between two systems operating at different clock frequencies. This asynchronous FIFO ensures smooth and reliable data transfer by managing read and write operations independently.
 
-358524926-6715ed38-847b-434b-8d3f-61f802b243b4
+<img width="583" height="317" alt="image" src="https://github.com/user-attachments/assets/8cdb62b1-2cb0-4347-8cd2-a6a0322606a4" />
+
 Features
 Dual Clock Operation: Supports separate clock domains for read and write operations, allowing it to handle data transfers between systems with different clock frequencies.
 Empty and Full Flags: Provides signals to indicate when the FIFO buffer is empty or full, ensuring proper data handling and preventing data loss.
